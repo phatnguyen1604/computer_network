@@ -1,6 +1,6 @@
 import sys
 from tkinter import Tk
-from Client2 import Client
+from Client import Client
 
 if __name__ == "__main__":
     try:
